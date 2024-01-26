@@ -13,3 +13,4 @@
 * git stash
 * git revert, git reset
 * Using remotes
+	* git remote -v
